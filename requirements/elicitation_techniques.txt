@@ -1,0 +1,6 @@
+Elicitation Techniques Used for OFS:
+
+1. Interviews with restaurant staff and delivery agents.
+2. Brainstorming sessions with the development team.
+3. Observation of the current manual ordering process.
+4. Surveys with potential users to gather requirements and expectations.
