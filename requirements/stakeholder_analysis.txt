@@ -1,0 +1,8 @@
+Stakeholders for OFS:
+
+| Stakeholder       | Role                     | Needs/Expectations                          |
+|------------------|-------------------------|--------------------------------------------|
+| Customer          | Orders food             | Easy navigation, secure payment, real-time order status |
+| Restaurant Owner  | Prepares food           | Receive orders in real-time, manage menu efficiently |
+| Delivery Agent    | Delivers orders         | View assigned orders, track delivery progress |
+| Admin             | Manages system          | Manage users, restaurants, and overall system control |

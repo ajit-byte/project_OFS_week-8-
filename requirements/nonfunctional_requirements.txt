@@ -1,0 +1,8 @@
+Non-Functional Requirements for OFS:
+
+1. The system shall be accessible 24/7 with minimal downtime.
+2. Payments shall be processed securely using SSL/TLS encryption.
+3. The system shall respond to user actions within 2 seconds on average.
+4. The user interface shall be responsive and compatible with mobile and desktop devices.
+5. Order updates shall be reflected in real-time.
+6. The system shall be able to handle at least 100 concurrent users.

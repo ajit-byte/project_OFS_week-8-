@@ -1,0 +1,10 @@
+Functional Requirements for OFS:
+
+1. The system shall allow users to register and log in securely.
+2. The system shall allow customers to browse restaurant menus.
+3. The system shall allow customers to add items to a shopping cart.
+4. The system shall allow customers to make secure online payments.
+5. The system shall send real-time orders to the restaurant for preparation.
+6. The system shall allow delivery agents to view their assigned orders.
+7. The system shall allow admins to manage user accounts and restaurant data.
+8. The system shall provide real-time updates on order status to users.

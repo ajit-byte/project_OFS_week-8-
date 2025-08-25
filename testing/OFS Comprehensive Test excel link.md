@@ -1,0 +1,3 @@
+[week 6 part 1 software.xlsx ](https://onedrive.live.com/:x:/g/personal/8A3073F8666AB262/EWIpuAbJ9VJCnNhI5tNYPwsBRtDzsEsBk_H1HwMl_pb38g?resid=8A3073F8666AB262!s06b82962f5c942529cd848e6d3583f0b&ithint=file%2Cxlsx&e=seVITS&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy84YTMwNzNmODY2NmFiMjYyL0VXSXB1QWJKOVZKQ25OaEk1dE5ZUHdzQlJ0RHpzRXNCa19IMUh3TWxfcGIzOGc_ZT1zZVZJVFM)
+[week 6 part 2 software.xlsx](https://onedrive.live.com/:x:/g/personal/8A3073F8666AB262/EUqp8bWpb7JKuetI5gz3EXABWVEa32l9jlYhfEIMKFfZBA?resid=8A3073F8666AB262!sb5f1a94a6fa94ab2b9eb48e60cf71170&ithint=file%2Cxlsx&e=y4nbzb&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy84YTMwNzNmODY2NmFiMjYyL0VVcXA4YldwYjdKS3VldEk1Z3ozRVhBQldWRWEzMmw5amxZaGZFSU1LRmZaQkE_ZT15NG5iemI)
+

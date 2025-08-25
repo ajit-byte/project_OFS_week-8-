@@ -1,0 +1,10 @@
+User Stories for Online Food Ordering System (OFS):
+
+1. As a customer, I want to register and log in so I can order food securely.
+2. As a customer, I want to browse restaurant menus so I can choose what to order.
+3. As a customer, I want to add food items to a cart so I can place grouped orders.
+4. As a customer, I want to make secure online payments.
+5. As a restaurant owner, I want to receive real-time orders to prepare food efficiently.
+6. As a delivery agent, I want to view assigned orders.
+7. As an admin, I want to manage user accounts and restaurant data.
+8. As a user, I want to receive real-time order status updates.
